@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "LM_bold";
+    src: url("../font/Lemonmin");
+}
+@font-face {
+    font-family: LM_Light;
+}
+@font-face {
+    font-family: LM_regular;
+}
+@font-face {
+    font-family: LM_medium;
+}
+@font-face {
+    font-family: NS_bold;
+    src: url("../font/NunitoSans-Bold.ttf");
+}
