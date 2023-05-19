@@ -1,17 +1,28 @@
 @font-face {
     font-family: "LM_bold";
-    src: url("../font/Lemonmin");
+    src: url("../font/LEMONMILK-Bold.otf");
 }
 @font-face {
     font-family: LM_Light;
+    src: url("../font/LEMONMILK-Light.otf");
 }
 @font-face {
     font-family: LM_regular;
+    src: url("../font/LEMONMILK-Regular.otf");
 }
 @font-face {
     font-family: LM_medium;
+    src: url("../font/LEMONMILK-Medium.otf");
 }
 @font-face {
     font-family: NS_bold;
     src: url("../font/NunitoSans-Bold.ttf");
+}
+@font-face {
+    font-family: NS_light;
+    src: url("../font/NunitoSans-Light.ttf");
+}
+@font-face {
+    font-family: NS_regular;
+    src: url("../font/NunitoSans-Regular.ttf");
 }
