@@ -126,4 +126,9 @@ nav .aktiv,
         align-items: center;
 
     }
+    .user_logo{
+        width: 24px;
+        height: 24px;
+    }
+
 }
